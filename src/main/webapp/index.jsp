@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'> Hi I am Manindra Singh Bisht <font></h1>
+<h1><font color='red'> Hi I am Manindra Singh Bisht, presently studying DevOps course <font></h1>
 
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
   
